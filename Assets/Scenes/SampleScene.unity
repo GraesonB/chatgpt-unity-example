@@ -414,7 +414,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _useProxy: 0
   _proxyUri: 
-  _apiKey: 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
+  _apiKey: 
   _model: 0
   _maxTokens: 500
   _temperature: 0.5
